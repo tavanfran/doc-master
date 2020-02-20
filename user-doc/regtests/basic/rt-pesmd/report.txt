@@ -1,0 +1,7 @@
+Thu Feb 20 16:47:23 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-pesmd
+++ Test type: plumed
+++ Arguments: pesmd input.dat
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-pesmd/tmp

@@ -1,0 +1,8 @@
+Thu Feb 20 16:45:23 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/annfunc/rt-test_circular_layer_and_derivative
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz diala_traj_nm.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/annfunc/rt-test_circular_layer_and_derivative/tmp
+Checking for annfunc

@@ -1,0 +1,7 @@
+<map id="PLMD::DRMSD" name="PLMD::DRMSD">
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1_intermolecular_d_r_m_s_d.html" title="PLMD::IntermolecularDRMSD" alt="" coords="5,304,215,331"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_intramolecular_d_r_m_s_d.html" title="PLMD::IntramolecularDRMSD" alt="" coords="239,304,448,331"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_single_domain_r_m_s_d.html" title="PLMD::SingleDomainRMSD" alt="" coords="129,155,323,181"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1_reference_atoms.html" title="In many applications (e.g. " alt="" coords="139,80,313,107"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_reference_configuration.html" title="Abstract base class for calculating the distance from a reference configuration. " alt="" coords="117,5,335,32"/>
+</map>

@@ -1,0 +1,7 @@
+Thu Feb 20 16:50:07 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/isdb/rt-emmi-gauss-mpi
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --mf_pdb structure.pdb --box 100,100,100
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/isdb/rt-emmi-gauss-mpi/tmp

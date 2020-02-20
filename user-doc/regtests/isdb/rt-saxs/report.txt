@@ -1,0 +1,8 @@
+Thu Feb 20 16:50:51 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/isdb/rt-saxs
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --timestep 0.005 --mf_pdb template.pdb
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/isdb/rt-saxs/tmp
+Checking for gsl

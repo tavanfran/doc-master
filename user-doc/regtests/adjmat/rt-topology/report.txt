@@ -1,0 +1,8 @@
+Thu Feb 20 16:44:12 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/adjmat/rt-topology
+++ Test type: driver
+++ Arguments:  --plumed plumed.dat --ixyz frame_no_373.xyz --length-units 0.1
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/adjmat/rt-topology/tmp
+Checking for adjmat

@@ -1,0 +1,7 @@
+Thu Feb 20 16:50:01 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/isdb/rt-sel
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz traj.xyz
+++ Processors: 1
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/isdb/rt-sel/tmp

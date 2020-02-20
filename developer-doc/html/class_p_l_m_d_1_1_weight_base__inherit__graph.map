@@ -1,0 +1,6 @@
+<map id="PLMD::WeightBase" name="PLMD::WeightBase">
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_bias_weight.html" title="PLMD::BiasWeight" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1_prob_weight.html" title="PLMD::ProbWeight" alt="" coords="169,80,309,107"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1ves_1_1_fes_weight.html" title="PLMD::ves::FesWeight" alt="" coords="333,80,496,107"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1ves_1_1_marginal_weight.html" title="PLMD::ves::MarginalWeight" alt="" coords="521,80,719,107"/>
+</map>

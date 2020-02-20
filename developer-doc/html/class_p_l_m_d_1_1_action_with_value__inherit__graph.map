@@ -1,0 +1,50 @@
+<map id="PLMD::ActionWithValue" name="PLMD::ActionWithValue">
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1analysis_1_1_analysis_base.html" title=" &#160;This is the abstract base class to use for implementing new methods for analyzing the trajectory..." alt="" coords="387,311,602,338"/>
+<area shape="rect" id="node14" href="$class_p_l_m_d_1_1bias_1_1_bias.html" title=" &#160;This is the abstract base class to use for implementing new simulation biases, within it there is i..." alt="" coords="430,1074,559,1101"/>
+<area shape="rect" id="node35" href="$class_p_l_m_d_1_1bias_1_1_reweight_base.html" title="PLMD::bias::ReweightBase" alt="" coords="398,1125,591,1151"/>
+<area shape="rect" id="node36" href="$class_p_l_m_d_1_1_colvar.html" title=" &#160;This is the abstract base class to use for implementing new collective variables, within it there is information as to how to go about implementing a new CV. " alt="" coords="441,1175,549,1202"/>
+<area shape="rect" id="node37" href="$class_p_l_m_d_1_1function_1_1_function.html" title=" &#160;This is the abstract base class to use for implementing new CV function, within it there is informa..." alt="" coords="404,1226,585,1253"/>
+<area shape="rect" id="node38" href="$class_p_l_m_d_1_1generic_1_1_fit_to_template.html" title="Provides the keyword FIT_TO_TEMPLATE &#160;" alt="" coords="389,1277,600,1303"/>
+<area shape="rect" id="node39" href="$class_p_l_m_d_1_1generic_1_1_plumed.html" title="Provides the keyword PLUMED &#160;" alt="" coords="409,1327,580,1354"/>
+<area shape="rect" id="node40" href="$class_p_l_m_d_1_1generic_1_1_read.html" title="Provides the keyword READ &#160;" alt="" coords="417,1378,572,1405"/>
+<area shape="rect" id="node41" href="$class_p_l_m_d_1_1generic_1_1_time.html" title="Provides the keyword TIME &#160;" alt="" coords="417,1429,572,1455"/>
+<area shape="rect" id="node42" href="$class_p_l_m_d_1_1isdb_1_1_metainference_base.html" title=" &#160;This is the abstract base class to use for implementing new ISDB Metainference actions, within it there is information as to how to go about implementing a new Metainference action. " alt="" coords="381,1479,608,1506"/>
+<area shape="rect" id="node43" href="$class_p_l_m_d_1_1manyrestraints_1_1_many_restraints_base.html" title="PLMD::manyrestraints\l::ManyRestraintsBase" alt="" coords="412,1531,577,1572"/>
+<area shape="rect" id="node44" href="$class_p_l_m_d_1_1mapping_1_1_mapping.html" title="PLMD::mapping::Mapping" alt="" coords="401,1597,588,1623"/>
+<area shape="rect" id="node45" href="$class_p_l_m_d_1_1mapping_1_1_p_c_a_vars.html" title="Provides the keyword PCAVARS &#160;" alt="" coords="403,1647,587,1674"/>
+<area shape="rect" id="node46" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_base.html" title="PLMD::multicolvar::\lMultiColvarBase" alt="" coords="421,1699,569,1740"/>
+<area shape="rect" id="node47" href="$class_p_l_m_d_1_1secondarystructure_1_1_secondary_structure_r_m_s_d.html" title="Base action for calculating things like AlphRMSD, AntibetaRMSD, etc. " alt="" coords="397,1764,592,1805"/>
+<area shape="rect" id="node48" href="$class_p_l_m_d_1_1ves_1_1_optimizer.html" title="PLMD::ves::Optimizer" alt="" coords="414,1830,575,1857"/>
+<area shape="rect" id="node49" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_averaging.html" title=" &#160;This abstract base class should be used if you are writing some method that calculates an &quot;average&quot;..." alt="" coords="401,1881,589,1923"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,1429,112,1455"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1analysis_1_1_euclidean_dissimilarity_matrix.html" title="Provides the keyword EUCLIDEAN_DISSIMILARITIES &#160;" alt="" coords="688,5,879,47"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1analysis_1_1_landmark_selection_base.html" title="PLMD::analysis::Landmark\lSelectionBase" alt="" coords="687,71,880,112"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1analysis_1_1_output_colvar_file.html" title="Provides the keyword OUTPUT_ANALYSIS_DATA_TO_COLVAR &#160;" alt="" coords="665,137,901,163"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1analysis_1_1_output_p_d_b_file.html" title="Provides the keyword OUTPUT_ANALYSIS_DATA_TO_PDB &#160;" alt="" coords="673,187,894,214"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1analysis_1_1_print_dissimilarity_matrix.html" title="Provides the keyword PRINT_DISSIMILARITY_MATRIX &#160;" alt="" coords="663,239,904,280"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1analysis_1_1_read_analysis_frames.html" title="Provides the keyword COLLECT_FRAMES &#160;" alt="" coords="676,304,891,345"/>
+<area shape="rect" id="node10" href="$class_p_l_m_d_1_1analysis_1_1_read_dissimilarity_matrix.html" title="Provides the keyword READ_DISSIMILARITY_MATRIX &#160;" alt="" coords="662,369,905,411"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1dimred_1_1_dimensionality_reduction_base.html" title="PLMD::dimred::Dimensionality\lReductionBase" alt="" coords="674,435,893,476"/>
+<area shape="rect" id="node12" href="$class_p_l_m_d_1_1dimred_1_1_output_p_c_a_projection.html" title="Provides the keyword OUTPUT_PCA_PROJECTION &#160;" alt="" coords="656,501,911,527"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1dimred_1_1_project_non_landmark_points.html" title="Provides the keyword PROJECT_ALL_ANALYSIS_DATA &#160;" alt="" coords="688,552,879,593"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1bias_1_1_a_b_m_d.html" title="Provides the keyword ABMD &#160;" alt="" coords="713,618,853,645"/>
+<area shape="rect" id="node16" href="$class_p_l_m_d_1_1bias_1_1_bias_value.html" title="Provides the keyword BIASVALUE &#160;" alt="" coords="701,669,866,695"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1bias_1_1_extended_lagrangian.html" title="Provides the keyword EXTENDED_LAGRANGIAN &#160;" alt="" coords="666,719,901,746"/>
+<area shape="rect" id="node18" href="$class_p_l_m_d_1_1bias_1_1_external.html" title="Provides the keyword EXTERNAL &#160;" alt="" coords="706,770,861,797"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1bias_1_1_l_walls.html" title="Provides the keyword LOWER_WALLS &#160;" alt="" coords="712,821,855,847"/>
+<area shape="rect" id="node20" href="$class_p_l_m_d_1_1bias_1_1_max_ent.html" title="Provides the keyword MAXENT &#160;" alt="" coords="709,871,858,898"/>
+<area shape="rect" id="node21" href="$class_p_l_m_d_1_1bias_1_1_meta_d.html" title="Provides the keyword METAD &#160;" alt="" coords="712,922,855,949"/>
+<area shape="rect" id="node22" href="$class_p_l_m_d_1_1bias_1_1_moving_restraint.html" title="Provides the keyword MOVINGRESTRAINT &#160;" alt="" coords="680,973,887,999"/>
+<area shape="rect" id="node23" href="$class_p_l_m_d_1_1bias_1_1_p_b_meta_d.html" title="Provides the keyword PBMETAD &#160;" alt="" coords="703,1023,863,1050"/>
+<area shape="rect" id="node24" href="$class_p_l_m_d_1_1bias_1_1_restraint.html" title="Provides the keyword RESTRAINT &#160;" alt="" coords="704,1074,863,1101"/>
+<area shape="rect" id="node25" href="$class_p_l_m_d_1_1bias_1_1_u_walls.html" title="Provides the keyword UPPER_WALLS &#160;" alt="" coords="710,1125,857,1151"/>
+<area shape="rect" id="node26" href="$class_p_l_m_d_1_1eds_1_1_e_d_s.html" title="Provides the keyword EDS &#160;" alt="" coords="722,1175,845,1202"/>
+<area shape="rect" id="node27" href="$class_p_l_m_d_1_1funnel_1_1_funnel.html" title="Provides the keyword FUNNEL &#160;" alt="" coords="705,1226,862,1253"/>
+<area shape="rect" id="node28" href="$class_p_l_m_d_1_1isdb_1_1_caliber.html" title="Provides the keyword CALIBER &#160;" alt="" coords="710,1277,857,1303"/>
+<area shape="rect" id="node29" href="$class_p_l_m_d_1_1isdb_1_1_metainference.html" title="Provides the keyword METAINFERENCE &#160;" alt="" coords="686,1327,881,1354"/>
+<area shape="rect" id="node30" href="$class_p_l_m_d_1_1isdb_1_1_rescale.html" title="Provides the keyword RESCALE &#160;" alt="" coords="708,1378,859,1405"/>
+<area shape="rect" id="node31" href="$class_p_l_m_d_1_1logmfd_1_1_log_m_f_d.html" title="class for LogMFD parameters, variables and subroutines. " alt="" coords="698,1429,869,1455"/>
+<area shape="rect" id="node32" href="$class_p_l_m_d_1_1maze_1_1_optimizer_bias.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_m_a_z_e__o_p_t_i_m_i_z_e_r__b_i_a_s.html&quot;&gt; &quot;MAZE_OPTIMIZER_BIAS &#160;" alt="" coords="682,1479,885,1506"/>
+<area shape="rect" id="node33" href="$class_p_l_m_d_1_1ves_1_1_ves_bias.html" title=" &#160;Abstract base class for implementing biases the extents the normal Bias.h class to include function..." alt="" coords="709,1530,857,1557"/>
+<area shape="rect" id="node34" href="$class_p_l_m_d_1_1ves_1_1_ves_delta_f.html" title="Provides the keyword VES_DELTA_F &#160;" alt="" coords="702,1581,865,1607"/>
+</map>

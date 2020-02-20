@@ -1,0 +1,6 @@
+<map id="PLMD::vesselbase::OrderingVessel" name="PLMD::vesselbase::OrderingVessel">
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1vesselbase_1_1_highest.html" title="PLMD::vesselbase::Highest" alt="" coords="5,244,203,271"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1vesselbase_1_1_lowest.html" title="PLMD::vesselbase::Lowest" alt="" coords="227,244,421,271"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1vesselbase_1_1_value_vessel.html" title="PLMD::vesselbase::ValueVessel" alt="" coords="101,80,326,107"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1vesselbase_1_1_vessel.html" title="PLMD::vesselbase::Vessel" alt="" coords="119,5,308,32"/>
+</map>

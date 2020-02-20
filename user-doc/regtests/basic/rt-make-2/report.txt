@@ -1,0 +1,14 @@
+Thu Feb 20 16:45:28 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-make-2
+++ Test type: make
+++ Arguments: 
+++ Processors: 3
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-make-2/tmp
+main.cpp: In function ‘void dump(PLMD::Communicator&, std::ostream&, const std::vector<T>&)’:
+main.cpp:18:3: warning: this ‘for’ clause does not guard... [-Wmisleading-indentation]
+   for(unsigned i=0;i<v.size();i++) ofs<<" "<<v[i]; ofs<<"\n";
+   ^~~
+main.cpp:18:52: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘for’
+   for(unsigned i=0;i<v.size();i++) ofs<<" "<<v[i]; ofs<<"\n";
+                                                    ^~~

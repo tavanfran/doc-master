@@ -1,0 +1,7 @@
+Thu Feb 20 16:51:33 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/mapping/rt-pathtools-4
+++ Test type: plumed
+++ Arguments: pathtools --path epath.pdb --metric EUCLIDEAN --out epath-out.pdb --arg-fmt %8.4f
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/mapping/rt-pathtools-4/tmp

@@ -1,0 +1,11 @@
+Thu Feb 20 16:45:58 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-make-7
+++ Test type: make
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-make-7/tmp
+main.cpp: In function ‘int main()’:
+main.cpp:41:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(unsigned i=0;i<natoms;i++) positions[i]=i;
+                    ~^~~~~~~

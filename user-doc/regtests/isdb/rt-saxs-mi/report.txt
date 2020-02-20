@@ -1,0 +1,7 @@
+Thu Feb 20 16:50:56 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/isdb/rt-saxs-mi
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --timestep 0.005 --mf_xtc traj.xtc --multi 2
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/isdb/rt-saxs-mi/tmp

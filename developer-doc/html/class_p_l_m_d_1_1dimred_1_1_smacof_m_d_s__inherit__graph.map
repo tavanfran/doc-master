@@ -1,0 +1,10 @@
+<map id="PLMD::dimred::SmacofMDS" name="PLMD::dimred::SmacofMDS">
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1dimred_1_1_dimensionality_reduction_base.html" title="PLMD::dimred::Dimensionality\lReductionBase" alt="" coords="679,99,897,141"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1analysis_1_1_analysis_base.html" title=" &#160;This is the abstract base class to use for implementing new methods for analyzing the trajectory..." alt="" coords="416,107,631,133"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action_pilot.html" title=" &#160;This is used to create PLMD::Action objects that are run with some set frequency. " alt="" coords="196,5,332,32"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,107,112,133"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action_with_value.html" title=" &#160;Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have som..." alt="" coords="177,56,351,83"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="179,107,349,133"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_action_with_arguments.html" title=" &#160;This is used to create PLMD::Action objects that take the output from some other Action as input..." alt="" coords="160,157,368,184"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title=" &#160;This is used to create PLMD::Action objects that are computed by calculating the same function mult..." alt="" coords="170,209,358,250"/>
+</map>

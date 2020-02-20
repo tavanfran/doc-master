@@ -1,0 +1,8 @@
+Thu Feb 20 16:52:34 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/ves/rt-md_le-1d-mpi-4-replicas-diff-temps
+++ Test type: plumed
+++ Arguments: ves_md_linearexpansion input
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/ves/rt-md_le-1d-mpi-4-replicas-diff-temps/tmp
+Checking for ves

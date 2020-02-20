@@ -1,0 +1,26 @@
+Thu Feb 20 16:48:04 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-make-namd
+++ Test type: make
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-make-namd/tmp
+main.cpp: In function ‘int main()’:
+main.cpp:14:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(unsigned i=0;i<natoms;i++) all_positions[i]=i;
+                    ~^~~~~~~
+main.cpp:42:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(unsigned i=0;i<3*natoms;i++) all_positions[i]=i+step;
+                    ~^~~~~~~~~
+main.cpp:50:28: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     bool redo=(index.size()!=n);
+                ~~~~~~~~~~~~^~~
+main.cpp:71:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for(int i=0;i<index.size();i++){
+                 ~^~~~~~~~~~~~~
+main.cpp:81:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for(int i=0;i<forces.size();i++) forces[i]=0.0;
+                 ~^~~~~~~~~~~~~~
+main.cpp:95:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for(int i=0;i<index.size();i++){
+                 ~^~~~~~~~~~~~~

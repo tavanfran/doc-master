@@ -1,0 +1,16 @@
+Thu Feb 20 16:48:09 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-make-4
+++ Test type: make
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-make-4/tmp
+In file included from main.cpp:2:0:
+/home/travis/opt/include/plumed/tools/Matrix.h: In instantiation of ‘int PLMD::pseudoInvert(const PLMD::Matrix<U>&, PLMD::Matrix<double>&) [with U = double; T = double]’:
+main.cpp:36:27:   required from here
+/home/travis/opt/include/plumed/tools/Matrix.h:301:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if( pseudoinverse.rw!=ncols || pseudoinverse.cl!=nrows ) pseudoinverse.resize( ncols, nrows );
+       ~~~~~~~~~~~~~~~~^~~~~~~
+/home/travis/opt/include/plumed/tools/Matrix.h:301:50: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if( pseudoinverse.rw!=ncols || pseudoinverse.cl!=nrows ) pseudoinverse.resize( ncols, nrows );
+                                  ~~~~~~~~~~~~~~~~^~~~~~~

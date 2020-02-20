@@ -1,0 +1,8 @@
+Thu Feb 20 16:51:51 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/maze/rt-opt-random-acceleration
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --timestep 1 --igro trajectory.gro
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/maze/rt-opt-random-acceleration/tmp
+Checking for maze

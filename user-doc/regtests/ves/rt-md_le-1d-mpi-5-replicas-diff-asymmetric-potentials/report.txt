@@ -1,0 +1,8 @@
+Thu Feb 20 16:53:08 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/ves/rt-md_le-1d-mpi-5-replicas-diff-asymmetric-potentials
+++ Test type: plumed
+++ Arguments: ves_md_linearexpansion input
+++ Processors: 5
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/ves/rt-md_le-1d-mpi-5-replicas-diff-asymmetric-potentials/tmp
+Checking for ves

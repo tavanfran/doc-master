@@ -1,0 +1,8 @@
+Thu Feb 20 16:49:58 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/isdb/rt-cs2backbone-mi
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --mf_pdb traj.pdb --multi 2 --dump-forces atom_forces
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/isdb/rt-cs2backbone-mi/tmp
+Checking for cregex

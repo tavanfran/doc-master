@@ -1,0 +1,8 @@
+Thu Feb 20 16:48:56 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/funnel/rt-fps
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --mf_trr small.trr --pdb start.pdb
+++ Processors: 1
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/funnel/rt-fps/tmp
+Checking for funnel

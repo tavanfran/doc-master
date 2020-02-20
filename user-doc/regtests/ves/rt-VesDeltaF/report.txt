@@ -1,0 +1,8 @@
+Thu Feb 20 16:52:53 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/ves/rt-VesDeltaF
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --mf_xtc alanine.xtc --dump-forces forces --dump-forces-fmt=%8.4f
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/ves/rt-VesDeltaF/tmp
+Checking for ves

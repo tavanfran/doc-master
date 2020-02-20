@@ -1,0 +1,8 @@
+Thu Feb 20 16:44:23 UTC 2020
+Running regtest in /home/travis/build/plumed/plumed2/regtest/adjmat/rt-dfg2
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz traj.xyz --length-units A --box 28.66,28.66,28.66
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/adjmat/rt-dfg2/tmp
+Checking for adjmat
